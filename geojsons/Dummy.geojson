@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Dummy",
+        "Review": "All Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96296882629392,
+          -37.800764597154526
+        ]
+      }
+    }
+  ]
+}
